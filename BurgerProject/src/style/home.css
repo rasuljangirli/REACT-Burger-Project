@@ -1,0 +1,26 @@
+.home_page_containerDiv {
+  position: relative;
+  margin-bottom: -4px;
+}
+
+.home_page_containerDiv button {
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+  padding: 10px 20px;
+  outline: none;
+  border-radius: 5px;
+  background-color: rgb(206, 212, 39);
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: all 0.5s ease;
+  border: none;
+}
+.home_page_containerDiv img {
+  width: 100%;
+}
+.home_page_containerDiv button:hover {
+  cursor: pointer;
+  background-color: rgb(40, 225, 23);
+  transform: scale(1.2);
+}

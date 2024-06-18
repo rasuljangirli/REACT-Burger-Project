@@ -1,0 +1,82 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "fruitName": "Burger Bom",
+      "fruitPrice": 38,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "fruitName": "Burger Tom",
+      "fruitPrice": 29,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVhZWA5UrbRGG2YVsLDJGmvazhlTWIewJYfLcNEyVN6QW0vZ1TJiC7qdxpBrLhcWliv4&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "fruitName": "Burger Som",
+      "fruitPrice": 18,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "fruitName": "Burger Rom",
+      "fruitPrice": 17,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iTusQS4SR_HFsu8ipnqmtfTz_637w02oJP3qrDeBBj0Mq1IuhxUuT-y9DOfqSH6d4Pg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "fruitName": "Burger Kom",
+      "fruitPrice": 42,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "fruitName": "Burger Jom",
+      "fruitPrice": 15,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVhZWA5UrbRGG2YVsLDJGmvazhlTWIewJYfLcNEyVN6QW0vZ1TJiC7qdxpBrLhcWliv4&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "fruitName": "Burger Wom",
+      "fruitPrice": 76,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iTusQS4SR_HFsu8ipnqmtfTz_637w02oJP3qrDeBBj0Mq1IuhxUuT-y9DOfqSH6d4Pg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "fruitName": "Burger Kom",
+      "fruitPrice": 12,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "fruitName": "Burger Nom",
+      "fruitPrice": 54,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVhZWA5UrbRGG2YVsLDJGmvazhlTWIewJYfLcNEyVN6QW0vZ1TJiC7qdxpBrLhcWliv4&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "fruitName": "Burger Xom",
+      "fruitPrice": 42,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "fruitName": "Burger Zom",
+      "fruitPrice": 23,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "fruitName": "Burger Dom",
+      "fruitPrice": 34,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVhZWA5UrbRGG2YVsLDJGmvazhlTWIewJYfLcNEyVN6QW0vZ1TJiC7qdxpBrLhcWliv4&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "fruitName": "Burger Hom",
+      "fruitPrice": 30,
+      "fruitImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9RNsrT8LmuwdYwhsspfRh7VUec7HOsxBii4TnjklldjZQoRaFvq1LM8MyqpVE8UqxNw&usqp=CAU"
+    }
+  ]
+}

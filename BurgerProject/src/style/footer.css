@@ -1,0 +1,21 @@
+.footer_conteiner {
+  padding: 34.4px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(237, 107, 8, 0.89);
+  column-gap: 20px;
+}
+
+.footer_conteiner_icon {
+  font-size: 2rem;
+  transition: all 0.5s ease;
+  border-radius: 3px;
+}
+
+.footer_conteiner_icon:hover {
+  cursor: pointer;
+  color: white;
+  background-color: black;
+  padding: 5px;
+}

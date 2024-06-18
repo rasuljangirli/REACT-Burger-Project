@@ -1,0 +1,11 @@
+.menu_container {
+  margin: 20px 0;
+}
+
+.menu_container_text {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 1.5rem;
+  color: black;
+  font-style: italic;
+}

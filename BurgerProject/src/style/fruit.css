@@ -1,0 +1,63 @@
+.fruit_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 320px;
+  width: 300px;
+  /* border: 1px solid red; */
+  transition: all 0.5s ease;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.fruit_card:hover {
+  transform: translateY(-20px);
+  cursor: pointer;
+}
+.fruit_card .fruit_name {
+  transition: all 0.7s ease;
+}
+.fruit_card:hover .fruit_name {
+  transform: translateY(-20px);
+  transition: all 0.7s ease;
+}
+
+.fruit_card .fruit_price {
+  transition: all 1.5s ease;
+}
+
+.fruit_card:hover .fruit_price {
+  transform: translateY(-20px);
+  transition: all 1.5s ease;
+}
+
+.fruit_card p {
+  transition: all 1s ease;
+}
+
+.fruit_card:hover p {
+  transform: translateY(-20px);
+  transition: all 1s ease;
+}
+
+.fruit_card img {
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.fruit_card div {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.fruit_price {
+  color: red;
+  /* margin-top: 10px; */
+}
+
+.fruit_card p {
+  margin: 0px 0px 10px 0px;
+  font-size: 16px;
+  color: rgb(5, 32, 210);
+}
