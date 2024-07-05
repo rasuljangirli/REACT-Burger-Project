@@ -32,17 +32,14 @@
 .fruit_card p {
   transition: all 1s ease;
 }
-
 .fruit_card:hover p {
   transform: translateY(-20px);
   transition: all 1s ease;
 }
-
 .fruit_card img {
   height: 200px;
   margin-bottom: 20px;
 }
-
 .fruit_card div {
   font-size: 1.2rem;
   font-weight: bold;
