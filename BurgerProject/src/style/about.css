@@ -1,11 +1,9 @@
 .about_container_img {
   padding: 60px 60px 30px 60px;
 }
-
 .about_container_img img {
   width: 100%;
 }
-
 .about_container_text {
   text-align: center;
   flex-direction: column;
@@ -15,7 +13,6 @@
   row-gap: 20px;
   padding: 0px 40px 30px 40px;
 }
-
 .about_container_text p {
   max-width: 900px;
   font-size: 1.2rem;
