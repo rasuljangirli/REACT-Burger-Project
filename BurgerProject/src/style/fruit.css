@@ -10,7 +10,6 @@
   border-radius: 3px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-
 .fruit_card:hover {
   transform: translateY(-20px);
   cursor: pointer;
