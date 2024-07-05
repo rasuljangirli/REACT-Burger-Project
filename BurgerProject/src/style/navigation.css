@@ -11,13 +11,11 @@
   z-index: 999;
   width: 100%;
 }
-
 .navigation_container_logo img {
   width: 90px;
   height: 60px;
   cursor: pointer;
 }
-
 .navigation_container_links .active {
   border-bottom: 3px solid rgb(240, 228, 1);
   color: rgb(245, 245, 8);
