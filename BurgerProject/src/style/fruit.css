@@ -44,12 +44,10 @@
   font-size: 1.2rem;
   font-weight: bold;
 }
-
 .fruit_price {
   color: red;
   /* margin-top: 10px; */
 }
-
 .fruit_card p {
   margin: 0px 0px 10px 0px;
   font-size: 16px;
