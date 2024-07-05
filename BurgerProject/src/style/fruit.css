@@ -21,11 +21,9 @@
   transform: translateY(-20px);
   transition: all 0.7s ease;
 }
-
 .fruit_card .fruit_price {
   transition: all 1.5s ease;
 }
-
 .fruit_card:hover .fruit_price {
   transform: translateY(-20px);
   transition: all 1.5s ease;
