@@ -17,7 +17,7 @@ export const GlobalProvider = (props) => {
   useEffect(() => {
     requestMenuDB();
   }, []);
-
+  
   return (
     <GlobalContex.Provider value={{ requestMenuDB, fruitsArr }}>
       {props.children}
